@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arubis.github.io/notes-hpk5m3/sitemap.xml
